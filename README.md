@@ -10,7 +10,7 @@
 
 [goooooooooooooooooooooooooooooooooooooooogle](http://www.google.com)
 
-[doc文件](doc/全端.word)
+[doc文件](doc/全端.docx)
 
 
 [java檔](SchoolProject/src/com/sa/Student.java)
