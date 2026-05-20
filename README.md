@@ -8,9 +8,9 @@
 ##### abc
 ###### abc
 
-[googl](http://www.google.com)
+[goooooooooooooooooooooooooooooooooooooooogle](http://www.google.com)
 
-[doc文件](doc/index.html)
+[doc文件](doc/全端.word)
 
 
 [java檔](SchoolProject/src/com/sa/Student.java)
